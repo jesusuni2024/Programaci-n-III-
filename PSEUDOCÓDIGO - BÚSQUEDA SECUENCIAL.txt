@@ -1,0 +1,32 @@
+PSEUDOCÓDIGO - BÚSQUEDA SECUENCIAL
+
+Inicio
+  Para i ← 0 hasta tamaño_arreglo - 1 hacer
+    Si arreglo[i] = valor_buscado entonces
+      Retornar i
+    Fin Si
+  Fin Para
+  Retornar -1
+Fin
+--------------------------------------------------
+
+PSEUDOCÓDIGO - BÚSQUEDA BINARIA
+
+Inicio
+  inicio ← 0
+  fin ← tamaño_arreglo - 1
+
+  Mientras inicio ≤ fin hacer
+    medio ← (inicio + fin) / 2
+
+    Si arreglo[medio] = valor_buscado entonces
+      Retornar medio
+    Sino Si arreglo[medio] < valor_buscado entonces
+      inicio ← medio + 1
+    Sino
+      fin ← medio - 1
+    Fin Si
+  Fin Mientras
+
+  Retornar -1
+Fin
