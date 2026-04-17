@@ -1,0 +1,14 @@
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\bin\Debug\net8.0\SistemaPersonajes.exe
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\bin\Debug\net8.0\SistemaPersonajes.deps.json
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\bin\Debug\net8.0\SistemaPersonajes.runtimeconfig.json
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\bin\Debug\net8.0\SistemaPersonajes.dll
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\bin\Debug\net8.0\SistemaPersonajes.pdb
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\SistemaPersonajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\SistemaPersonajes.AssemblyInfoInputs.cache
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\SistemaPersonajes.AssemblyInfo.cs
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\SistemaPersonajes.csproj.CoreCompileInputs.cache
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\SistemaPersonajes.dll
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\refint\SistemaPersonajes.dll
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\SistemaPersonajes.pdb
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\SistemaPersonajes.genruntimeconfig.cache
+C:\Users\hector\RiderProjects\SistemaPersonajes\SistemaPersonajes\obj\Debug\net8.0\ref\SistemaPersonajes.dll
